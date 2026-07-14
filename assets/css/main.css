@@ -2303,6 +2303,10 @@ padding-bottom: 3%;
   color: #FFF9EB;
 }
 
+.cursos__dots{
+  display: none;
+}
+
 
 /* =========================
    RESPONSIVE — MOBILE
@@ -2632,6 +2636,10 @@ padding-bottom: 3%;
   font-style: italic;
   color: rgba(29, 37, 40, 0.55);
   margin: 0;
+}
+
+.galeria__dots{
+  display: none;
 }
 
 
